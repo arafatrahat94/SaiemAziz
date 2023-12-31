@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arafath+Hossain;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+{}{}+++{}+{}+{}+{}+I'm+Md.+Abu+Saiem+Aziz+Chowdhury+{}+{}+{}+{}" />
 </h1>
 <h3 align="center">A passionate Mern Stack Developer From Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
