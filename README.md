@@ -9,28 +9,27 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 
 
-- 🔭 I’m currently working on [Chatify-Social-Media-WebApp](https://github.com/arafatrahat94/chatifyv)
+- 👨‍💻 All of my projects are available at <a href='https://portfolio-saiemaziz.vercel.app'>Portfolio</a>
 
-- 🌱 I’m currently learning **Next Js,Web Socket**
+- 💬 Ask me about **react,javascript,html,my sql,post man ,git**
 
-- 💬 Ask me about **react,javascript,html**
+- 📫 How to reach me **sayemazizchy@gmail.com**
 
-- 📫 How to reach me **arafatrahat94@gmail.com**
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1gvhKt7IbZXZf9zsESlv662981JMeJ8VF/view">Resume</a>
 
-- ⚡ Fun fact **I am funny😅**
+- ⚡ Fun fact **learning Javascript makes you to solve problems faster**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arafatrahat94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arafatrahat94" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arafath rahat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arafath rahat" height="30" width="40" /></a>
-<a href="https://fb.com/md.arafathhossainrahat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.arafathhossainrahat" height="30" width="40" /></a>
-<a href="https://instagram.com/md.arafathhossainrahat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md.arafathhossainrahat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-abu-saiem-aziz-chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-abu-saiem-aziz-chowdhury" height="30" width="40" /></a>
+<a href="https://fb.com/sayem.azizchowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayem.azizchowdhury" height="30" width="40" /></a>
+<a href="https://instagram.com/sayem_aziz_chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayem_aziz_chowdhury" height="30" width="40" /></a>
 </p><br/><br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,postman,mysql" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,nextjs,redux,java" /><br>
 </div>
 
 <br/>
@@ -39,7 +38,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/arafatrahat94/arafatrahat94/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SaiemAziz/SaiemAziz/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
